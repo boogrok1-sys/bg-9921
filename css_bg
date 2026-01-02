@@ -1,0 +1,8 @@
+/* [1] 배경 고정 */
+html, body {
+    background-image: url('image adress') !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
